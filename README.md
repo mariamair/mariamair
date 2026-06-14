@@ -27,7 +27,7 @@ A javascript module that helps with data visualisation by grouping data points i
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff) 
-![Gradle](https://img.shields.io/badge/gradle-02303A?logo=gradle&logoColor=white) 
+![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-6364FF?logo=k6&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
