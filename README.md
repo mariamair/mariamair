@@ -59,7 +59,6 @@ A javascript module that helps with data visualisation by grouping data points i
 ![SOAP](https://img.shields.io/badge/SOAP-grey)  
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff) 
 ![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)
-![MQTT](https://img.shields.io/badge/MQTT-grey)  
 ![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white)
 
 ### Databases
