@@ -36,7 +36,7 @@ A javascript module that helps with data visualisation by grouping data points i
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 ![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![QGIS](https://img.shields.io/badge/qgis-93b023?&style=for-the-badge&logo=qgis&logoColor=white) 
+![QGIS](https://img.shields.io/badge/qgis-93b023?logo=qgis&logoColor=white) 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
