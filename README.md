@@ -20,19 +20,54 @@ A javascript module that helps with data visualisation by grouping data points i
 ---
 
 ### Tools, frameworks and libraries
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![QGIS](https://img.shields.io/badge/qgis-93b023?&style=for-the-badge&logo=qgis&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=fff)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe) 
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) 
+![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) 
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![k6](https://img.shields.io/badge/k6-6364FF?logo=k6&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) 
+![QGIS](https://img.shields.io/badge/qgis-93b023?&style=for-the-badge&logo=qgis&logoColor=white) 
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) 
+![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ### Languages
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![Visual Basic (.NET)](https://img.shields.io/badge/VB-blue)
-
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) 
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff) 
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) 
+![Visual Basic (.NET)](https://img.shields.io/badge/VB-blue)
+![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)
 
 ### API technologies and message formats
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff) ![REST](https://img.shields.io/badge/%7BREST%7D-grey) ![SOAP](https://img.shields.io/badge/SOAP-grey)  
-![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff) ![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff) 
+![REST](https://img.shields.io/badge/%7BREST%7D-grey) 
+![SOAP](https://img.shields.io/badge/SOAP-grey)  
+![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff) 
+![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)
+![MQTT](https://img.shields.io/badge/MQTT-grey)  
 
 ### Databases
-![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff)
+![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) 
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 
 
 
