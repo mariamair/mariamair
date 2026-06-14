@@ -60,7 +60,7 @@ A javascript module that helps with data visualisation by grouping data points i
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff) 
 ![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)
 ![MQTT](https://img.shields.io/badge/MQTT-grey)  
-![MQTT](https://shields.io)
+![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white)
 
 ### Databases
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff)
