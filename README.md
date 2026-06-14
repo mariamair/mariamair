@@ -10,6 +10,10 @@ I am Maria, an experienced product owner and a student of the web developers pro
 Helps users to follow exercises and training programs that they have been given by their physiotherapist and other caregivers. The application lets them add training programs and exercises and provides statistics on exercises performed.   
 This is a fullstack application with a Node.js/Express backend and a frontend that uses web components. 
 
+#### [Shoreline Buildings](https://shorelinebuildings.mariamair.se/)
+An interactive visualization of data about shoreline buildings in Sweden's regions and municipalities.
+Java SpringBoot backend・GraphQL API・React/Next.js frontend・OAuth/OICD using Google・Python seed script・PostgreSQL database・CI/CD pipeline・Postman/Newman API tests.
+
 #### [group-into-intervals](https://www.npmjs.com/package/group-into-intervals)
 A javascript module that helps with data visualisation by grouping data points into intervals. The intervals can be combined with different color schemes.
 
